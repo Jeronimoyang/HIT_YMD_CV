@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/test5_1.cpp.o CMakeFiles/main.dir/src/port.cpp.o CMakeFiles/main.dir/src/vintageport.cpp.o -o /home/hitcrt/Documents/week5/test5/test5_1/bin/main 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/test3_2.cpp.o -o /home/hitcrt/Documents/week5/test3/test3_2/bin/main 

@@ -1,0 +1,14 @@
+header: 
+seq: 0 stamp: 0 frame_id: 
+values[]
+  values[0]:   0.186332
+  values[1]:   2.08013
+  values[2]:   5.48664
+  values[3]:   0.00577596
+  values[4]:   0.00214434
+  values[5]:   0.999981
+  values[6]:   0.0622821
+
+values0、1、2分别为圆柱轴线上其中一个点的x、y、z坐标
+values3、4、5分别为圆柱轴线的x、y、z方向向量
+values6为圆柱半径
