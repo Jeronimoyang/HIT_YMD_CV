@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hitcrt/Documents/work1/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/one.dir/one.cpp.o -c /home/hitcrt/Documents/work1/one.cpp",
+  "file": "/home/hitcrt/Documents/work1/one.cpp"
+}
+]

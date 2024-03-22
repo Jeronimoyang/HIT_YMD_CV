@@ -1,0 +1,6 @@
+/home/hitcrt/Documents/Homework/work3/build/CMakeFiles/1.dir
+/home/hitcrt/Documents/Homework/work3/build/CMakeFiles/edit_cache.dir
+/home/hitcrt/Documents/Homework/work3/build/CMakeFiles/rebuild_cache.dir
+/home/hitcrt/Documents/Homework/work3/build/src/CMakeFiles/example.dir
+/home/hitcrt/Documents/Homework/work3/build/src/CMakeFiles/edit_cache.dir
+/home/hitcrt/Documents/Homework/work3/build/src/CMakeFiles/rebuild_cache.dir

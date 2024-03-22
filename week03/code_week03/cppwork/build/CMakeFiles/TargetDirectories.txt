@@ -1,0 +1,3 @@
+/home/hitcrt/Documents/week3/build/CMakeFiles/main.dir
+/home/hitcrt/Documents/week3/build/CMakeFiles/edit_cache.dir
+/home/hitcrt/Documents/week3/build/CMakeFiles/rebuild_cache.dir
