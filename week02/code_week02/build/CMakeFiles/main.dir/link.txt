@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/complex.cpp.o CMakeFiles/main.dir/src/findnumber.cpp.o CMakeFiles/main.dir/src/sortnumber.cpp.o CMakeFiles/main.dir/src/sortstdent.cpp.o -o /home/hitcrt/Documents/week2/bin/main 
